@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/datastructure/src" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../Program Files (x86)/Java/jdk1.8.0_111" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../../Program Files (x86)/Java/jdk1.8.0_111" recursive="false" type="SOURCES" />
+  </library>
+</component>
